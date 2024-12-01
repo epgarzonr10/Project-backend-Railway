@@ -3,7 +3,7 @@ Prueba despliegue aplicaciones en railway
 ## Api endpoint: https://stupendous-adjustment-production.up.railway.app/api/v1/categoria/obtenerCategorias
 
 # application.properties
-
+Esto es nuevo
 ```
 spring.datasource.url = jdbc:mysql://${DB_HOST}:${DB_PORT}/${DB_NAME}
 
